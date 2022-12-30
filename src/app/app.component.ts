@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'loginform';
+   
+  submit(){
+    console.log("form submitted")
+  }
 }

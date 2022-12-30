@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "puja",
+      "lastname": "dhole",
+      "email": "dhole@gmail.com",
+      "mobile": "5698235609",
+      "salary": "78000"
+    },
+    {
+      "id": 3,
+      "firstname": "pinu",
+      "lastname": "verma",
+      "email": "pinu@gmail.com",
+      "mobile": "459823978",
+      "salary": "67000"
+    },
+    {
+      "id": 4,
+      "firstname": "seenu",
+      "lastname": "loda",
+      "email": "seenu@gmail.com",
+      "mobile": "095609456",
+      "salary": "78000"
+    },
+    {
+      "id": 5,
+      "firstname": "sakshi",
+      "lastname": "indurkar",
+      "email": "indurkarsakshi111@gmail.com",
+      "mobile": "8007522346",
+      "salary": "80000"
+    },
+    {
+      "id": 6,
+      "firstname": "chiku",
+      "lastname": "more",
+      "email": "chiku@gmail.com",
+      "mobile": "6734092367",
+      "salary": "67000"
+    },
+    {
+      "id": 7,
+      "firstname": "neeta",
+      "lastname": "bindhu",
+      "email": "bindhu@gmail.com",
+      "mobile": "09457823",
+      "salary": "45000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

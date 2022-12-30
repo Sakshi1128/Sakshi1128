@@ -1,0 +1,26 @@
+.card{
+   
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+   background: rgb(28, 91, 136);
+    background: linear-gradient(90deg, rgb(25, 101, 151)0%, rgba(60, 39, 102, 0.01)100%);
+}
+.card h1,
+h6{
+    color: rgba($color: #fdf7f7, $alpha: 1.0);
+
+}
+label{
+    color: #fdf7f7;
+
+    
+}
+button{
+    background-color: rgb(12, 6, 94);
+    color: #fdf7f7;
+}
